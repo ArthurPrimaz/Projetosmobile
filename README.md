@@ -1,3 +1,7 @@
+# Projetos Mobile
+
+Projetos desenvolvidos na disciplina de Desenvolvimento Mobile.
+
 ## TaskManager
 
 App Android em Java com duas partes:
